@@ -1,0 +1,52 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{54, 89}, {379, 198}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "address_label",
+          "frame" : "{{165, 144}, {150, 32}}",
+          "uuid" : "1A969B33-EA5B-4B57-8D32-302AD02C0EAD",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : true
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{178, 16}, {119, 65}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "display_address_touch_up_inside",
+          "frame" : "{{200, 144}, {80, 32}}",
+          "title" : "My Address",
+          "uuid" : "A13130F8-CFF8-4D14-B56B-EB798E81754F",
+          "font_bold" : true,
+          "class" : "Button",
+          "name" : "address_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {480, 320}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
